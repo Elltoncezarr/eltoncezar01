@@ -6,4 +6,5 @@ Atualmente, estou focado em programação e desenvolvimento backend.
 🔧 Tecnologias em estudo: Java, Spring Boot, Git, HTML, CSS, JavaScript  
 🎯 Objetivo: Evoluir como desenvolvedor e conquistar minha primeira oportunidade na área.
 
+markdown
 📫 Conecte-se comigo: [LinkedIn](linkedin.com/in/eltoncezarr)
